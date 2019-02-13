@@ -1,0 +1,35 @@
+﻿*{
+	box-sizing: border-box
+}
+#main{
+	width: 802px;
+	margin: 0 auto;
+	border: 5px solid LightPink
+}
+#header{
+	height: 200px;
+	border-bottom: 5px solid LightPink
+}
+#sidebar{
+	width: 187px;
+	height: 600px;
+	float: left;
+	border-right: 5px solid LightPink
+}
+#content{
+	width: 600px;
+	float: right;
+	height: 600px
+}
+#footer{
+	height: 50px;
+	clear: both;
+	border-top: 5px solid LightPink;
+}
+#main{
+	background: #FFFAFA
+}
+#sidebar{
+	background: MistyRose
+}
+#header{
